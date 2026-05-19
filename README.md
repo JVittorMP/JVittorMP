@@ -1,8 +1,5 @@
 ### Prazer, me chamo João Vittor de Moura Padilha 😉
 
-- 🔭 Atualmente, estou cursando Ciências da Computação na Universidade Federal do Mato Grosso (UFMT) | (4/8)
-- 🌱 Aprendendo Java - Curso de Desenvolvimento de Sistemas (SECITECI)
-
 ##
 
 <div align="center">
